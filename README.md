@@ -1,10 +1,9 @@
 # Defect-Rate Analysis of Three Production Lines
 
-**Tools** : SPSS, Python, pandas • Dataset size : 15 batches × 3 lines
+**Tools** : IBM SPSS  Dataset size : The workbook contains 25 rows × 2 columns of production-line defect data. Column A listsdefect type; Column B stores number of defects
 
 ## Problem  
-Which production line has a statistically higher defect rate?
-
+Which production line has a statistically higher defect rate
 ## Method  
 1. One-way ANOVA to test overall difference  
 2. Tukey HSD post-hoc for pairwise comparison

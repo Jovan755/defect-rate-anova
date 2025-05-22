@@ -12,8 +12,6 @@ Which production model has a statistically higher defect rate
 * **F = 5.29**, **p = 0.023** – significant difference  
 * Model A defect rate ≈ **10 pp** higher than Models B & C
 
-![ANOVA table](images/anova_table.png)  
-![Tukey HSD](images/tukey_plot.png)
 
 ## Recommendation  
 Redesign or process adjust Model A; projected 30 % defect reduction.

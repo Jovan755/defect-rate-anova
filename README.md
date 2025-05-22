@@ -10,7 +10,7 @@ Which production line has a statistically higher defect rate
 
 ## Results  
 * **F = 5.29**, **p = 0.023** – significant difference  
-* Line A defect rate ≈ **10 pp** higher than Lines B & C
+* Model A defect rate ≈ **10 pp** higher than Models B & C
 
 ![ANOVA table](images/anova_table.png)  
 ![Tukey HSD](images/tukey_plot.png)

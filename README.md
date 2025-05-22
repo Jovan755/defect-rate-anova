@@ -1,0 +1,25 @@
+# Defect-Rate Analysis of Three Production Lines
+
+**Tools** : SPSS, Python, pandas • Dataset size : 15 batches × 3 lines
+
+## Problem  
+Which production line has a statistically higher defect rate?
+
+## Method  
+1. One-way ANOVA to test overall difference  
+2. Tukey HSD post-hoc for pairwise comparison
+
+## Results  
+* **F = 5.29**, **p = 0.023** – significant difference  
+* Line A defect rate ≈ **10 pp** higher than Lines B & C
+
+![ANOVA table](images/anova_table.png)  
+![Tukey HSD](images/tukey_plot.png)
+
+## Recommendation  
+Redesign or process adjust Line A; projected 30 % defect reduction.
+
+## Reproduce  
+Download `data/defects.xlsx`, open `notebooks/anova_repro.ipynb`, run all cells (Python 3.11).
+
+

@@ -1,6 +1,6 @@
 # Defect-Rate Analysis of Three Production Lines
 
-**Tools** : IBM SPSS  Dataset size : The workbook contains 25 rows × 2 columns of production-line defect data. Column A listsdefect type; Column B stores number of defects
+**Tools** : IBM SPSS  Dataset size : The workbook contains 25 rows × 2 columns of production-line defect data. Column A lists defect type; Column B stores number of defects
 
 ## Problem  
 Which production line has a statistically higher defect rate
